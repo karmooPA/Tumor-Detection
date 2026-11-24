@@ -1,4 +1,4 @@
-# Lung WSI MIL
+# Tumor-Detection
 
 **Reproducible binary Tumor / Normal classification for TCGA-LUSC whole-slide images using frozen KimiaNet features and attention-based multiple instance learning (AMIL).**
 
